@@ -7,7 +7,7 @@
 This project contains API tests created using Playwright and TypeScript.
 Tests cover different possible requests types such as GET, POST, PATCH, DELETE using the API functionality available at [https://reqres.in].
 
-GitHub Action workflow was added to the project. This allows to run tests on each push and pull request into the main branch.
+GitHub Actions workflow was added to the project. This allows to run tests on each push and pull request into the main branch.
 
 ## Tests:
 1. Verify that registration of undefined users is not possible: verify that users who are not yet defined on [https://reqres.in] shouldn't be able to register.
