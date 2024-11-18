@@ -16,9 +16,9 @@ Tests cover different possible requests types such as GET, POST, PATCH, DELETE u
 1. Clone this repository to your machine.
 2. Open folder with tests (api-tests) in IDE/terminal. 
 3. Install all required dependencies from package.json file, before running the tests for the first time. 
-This can be done using the next command:
-	npm install
-4. To run all tests use command 
-	npx playwright test
-5. To view the tests results with the built-in Playwright report viewer run   
-    npx playwright show-report
+This can be done using the next command:<br>
+	**npm install**<br>
+4. To run all tests use command<br>
+	**npx playwright test**<br>
+5. To view the tests results with the built-in Playwright report viewer run<br>
+    **npx playwright show-report**<br>
